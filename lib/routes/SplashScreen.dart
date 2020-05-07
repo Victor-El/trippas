@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import '../Util/Util.dart';
+import '../utils/Util.dart';
 import 'TripsScreen.dart';
 
 class SplashScreen extends StatelessWidget {

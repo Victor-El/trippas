@@ -8,6 +8,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: SplashScreen(),
+      title: "Trip App",
+//      theme: ThemeData(
+//        //accentColor: Colors.black,
+//        //scaffoldBackgroundColor: Colors.brown,
+//        //cursorColor: Colors.blue,
+//        //textSelectionColor: Colors.pink
+//      ),
     );
   }
 }
